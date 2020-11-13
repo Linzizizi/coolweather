@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="41801129_lfy" ></dbname>
+
+    <version value="2" ></version>
+
+    <list>
+        <mapping class="定义信息类的路径"></mapping>
+
+    </list>
+</litepal>
